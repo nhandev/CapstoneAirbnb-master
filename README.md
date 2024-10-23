@@ -1,6 +1,4 @@
-Nhóm 11 :
 *User:
-
     - Trần Anh Nhân
             + Header,Footer
             +Log in,LogUp
